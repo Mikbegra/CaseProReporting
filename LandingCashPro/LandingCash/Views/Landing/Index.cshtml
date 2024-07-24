@@ -1,0 +1,106 @@
+﻿@using System.Globalization
+@model LandingListModel
+@{
+    ViewData["Title"] = "Actuals";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var months = DateTimeFormatInfo.CurrentInfo.MonthNames;
+    var monthList = new List<SelectListItem>();
+
+    for (int i = 0; i < months.Length - 1; i++)
+        monthList.Add(new SelectListItem { Value = (i + 1).ToString(), Text = months[i] });
+}
+
+<section class="content-header">
+    <ol class="breadcrumb">
+        <li><a href="Dashboard.html"><i class="fa fa-home"></i> Home</a></li>
+        <li class="active">Actuals</li>
+    </ol>
+</section>
+
+<section class="content">
+    <div class="box">
+        <div class="box-body">
+            <form asp-action="Index" asp-controller="Landing" method="post" id="main-form">
+                <input type="hidden" id="IsSave" name="IsSave" value="" />
+                <div class="row">
+                    <div class="col-md-3">
+                        <select id="ReportTypeId" name="ReportTypeId" onchange="document.getElementById('IsSave').value = '0'; this.form.submit();" class="form-control">
+                            @foreach (var item in Model.ReportTypes)
+                            {
+                                <option value="@item.Value" selected="@((item.Value == Model.ReportTypeId.ToString()))">@item.Text</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <select id="MonthId" name="MonthId" onchange="document.getElementById('IsSave').value = '0'; this.form.submit();" class="form-control">
+                            @foreach (var item in monthList)
+                            {
+                                <option value="@item.Value" selected="@((item.Value == Model.MonthId.ToString()))">@item.Text</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+
+                <div class="table-container clearfix">
+                    <table id="table" data-toggle="table" data-pagination="true" data-search="true" data-show-columns="true"
+                           data-show-pagination-switch="true" data-show-refresh="true" data-key-events="true"
+                           data-show-toggle="true" data-resizable="true" data-cookie="true" data-cookie-id-table="saveId"
+                           data-show-export="true" data-click-to-select="false" data-toolbar="#toolbar1">
+                        <thead>
+                            <tr>
+                                <th data-sortable="true" data-field="Code">Code</th>
+                                <th data-sortable="true" data-field="Cost Center">Cost Center</th>
+                                <th data-sortable="true" data-field="Dept">Dept</th>
+                                <th data-sortable="true" data-field="Nominal">Nominal</th>
+                                <th data-sortable="true" data-field="Description">Description</th>
+                                <th data-sortable="true" data-field="Select Month Eastimate">Select Month Eastimate</th>
+                                <th data-sortable="true" data-field="Actuals" class="actli">Actuals</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.LandingModel)
+                            {
+                                <tr data-activity-id="@item.LandingId">
+                                    <td>@item.Code</td>
+                                    <td>@item.CostCenter</td>
+                                    <td>@item.Dept</td>
+                                    <td>@item.Nominal</td>
+                                    <td>@item.Description</td>
+                                    <td>@item.EstimateTotal</td>
+                                    <td>
+                                        <input type="hidden" name="LandingModel[@Model.LandingModel.IndexOf(item)].LandingId" value="@item.LandingId" />
+                                        <input type="hidden" name="LandingModel[@Model.LandingModel.IndexOf(item)].ActualsId" value="@item.ActualsId" />
+                                        <input type="hidden" name="LandingModel[@Model.LandingModel.IndexOf(item)].Code" value="@item.Code" />
+                                        <input type="hidden" name="LandingModel[@Model.LandingModel.IndexOf(item)].CostCenter" value="@item.CostCenter" />
+                                        <input type="hidden" name="LandingModel[@Model.LandingModel.IndexOf(item)].Dept" value="@item.Dept" />
+                                        <input type="hidden" name="LandingModel[@Model.LandingModel.IndexOf(item)].Nominal" value="@item.Nominal" />
+                                        <input type="hidden" name="LandingModel[@Model.LandingModel.IndexOf(item)].Description" value="@item.Description" />
+                                        <input type="hidden" name="LandingModel[@Model.LandingModel.IndexOf(item)].EstimateTotal" value="@item.EstimateTotal" />
+
+                                        <input type="text" name="LandingModel[@Model.LandingModel.IndexOf(item)].Actuals" class="form-control decimalvalidation" value="@item.Actuals?.ToString()" />
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <button type="submit" onclick="document.getElementById('IsSave').value = '1';" class="btn btn-cmn btn-actvt" style="margin-top: 10px;">Submit</button>
+
+                <ul>
+                    @if (Convert.ToBoolean(TempData["IsSuccess"]) == true)
+                    {
+                        <li><span class="text-success">Saved successfully.</span></li>
+                    }
+                    else if (Convert.ToBoolean(TempData["IsError"]) == true)
+                    {
+                        @foreach (var error in (List<string>)TempData["Error"])
+                        {
+                            <li><span class="text-danger">@error</span></li>
+                        }
+                    }
+                </ul>
+            </form>
+        </div>
+    </div>
+</section>

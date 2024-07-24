@@ -1,0 +1,86 @@
+﻿@model LandingReportModel;
+@{
+    ViewData["Title"] = "Report";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="content-header">
+    <ol class="breadcrumb">
+        <li><a href="Dashboard.html"><i class="fa fa-home"></i> Home</a></li>
+        <li class="active">Report</li>
+    </ol>
+</section>
+
+<section class="content">
+    <div class="box">
+        <div class="box-body">
+            <form asp-action="Report" asp-controller="Landing" method="post" id="main-form">
+                <div class="row">
+                    <div class="col-md-3">
+                        <select id="ReportTypeId" name="ReportTypeId" onchange="this.form.submit();" class="form-control">
+                            @foreach (var item in Model.ReportTypes)
+                            {
+                                <option value="@item.Value" selected="@((item.Value == Model.ReportTypeId.ToString()))">@item.Text</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+            </form>
+
+            <div class="table-container clearfix">
+                <table id="table" data-toggle="table" data-pagination="true" data-search="true" data-show-columns="true"
+                       data-show-pagination-switch="true" data-show-refresh="true" data-key-events="true"
+                       data-show-toggle="true" data-resizable="true" data-cookie="true" data-cookie-id-table="saveId"
+                       data-show-export="true" data-click-to-select="false" data-toolbar="#toolbar1">
+                    <thead>
+                        <tr>
+                            <th data-sortable="true" data-field="Code">Code</th>
+                            <th data-sortable="true" data-field="CostCenter">Cost Center</th>
+                            <th data-sortable="true" data-field="Dept">Dept</th>
+                            <th data-sortable="true" data-field="Nominal">Nominal</th>
+                            <th data-sortable="true" data-field="Description">Description</th>
+                            <th data-sortable="true" data-field="January">January</th>
+                            <th data-sortable="true" data-field="February">February</th>
+                            <th data-sortable="true" data-field="March">March</th>
+                            <th data-sortable="true" data-field="April">April</th>
+                            <th data-sortable="true" data-field="May">May</th>
+                            <th data-sortable="true" data-field="June">June</th>
+                            <th data-sortable="true" data-field="July">July</th>
+                            <th data-sortable="true" data-field="August">August</th>
+                            <th data-sortable="true" data-field="September">September</th>
+                            <th data-sortable="true" data-field="October">October</th>
+                            <th data-sortable="true" data-field="November">November</th>
+                            <th data-sortable="true" data-field="December">December</th>
+                            <th data-sortable="true" data-field="TotalActuals" class="actli">TotalActuals</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.List)
+                        {
+                            <tr data-activity-id="@item.LandingId">
+                                <td>@item.Code</td>
+                                <td>@item.CostCenter</td>
+                                <td>@item.Dept</td>
+                                <td>@item.Nominal</td>
+                                <td>@item.Description</td>
+                                <td class="@(item.January != null ? "bg-green":"")">@item.January</td>
+                                <td class="@(item.February != null ? "bg-green":"")">@item.February</td>
+                                <td class="@(item.March != null ? "bg-green":"")">@item.March</td>
+                                <td class="@(item.April != null ? "bg-green":"")">@item.April</td>
+                                <td class="@(item.May != null ? "bg-green":"")">@item.May</td>
+                                <td class="@(item.June != null ? "bg-green":"")">@item.June</td>
+                                <td class="@(item.July != null ? "bg-green":"")">@item.July</td>
+                                <td class="@(item.August != null ? "bg-green":"")">@item.August</td>
+                                <td class="@(item.September != null ? "bg-green":"")">@item.September</td>
+                                <td class="@(item.October != null ? "bg-green":"")">@item.October</td>
+                                <td class="@(item.November != null ? "bg-green":"")">@item.November</td>
+                                <td class="@(item.December != null ? "bg-green":"")">@item.December</td>
+                                <td>@item.TotalActuals</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>

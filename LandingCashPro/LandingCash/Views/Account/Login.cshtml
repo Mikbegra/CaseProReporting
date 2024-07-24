@@ -1,0 +1,67 @@
+﻿@model Modelcasepro.RequestModel.LoginRequestModel;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>CasePRO | Login</title>
+    <link rel="icon" type="image/x-icon" href="Asset/images/favicon.ico" asp-append-version="true">
+    <link href="Asset/css/bootstrap.min.css" rel="stylesheet" asp-append-version="true" />
+    <link href="Asset/css/font-awesome.min.css" rel="stylesheet" asp-append-version="true" />
+    <link href="Asset/css/login.min.css" rel="stylesheet" asp-append-version="true" />
+
+    <script src="Asset/js/jquery-3.7.1.min.js" asp-append-version="true"></script>
+    <script src="Asset/js/bootstrap.min.js" asp-append-version="true"></script>
+    <script src="~/asset/js/custom.js" asp-append-version="true"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="login-main-container">
+            <div class="screen-content">
+                @{
+                    if (!(string.IsNullOrEmpty(ViewBag.ErrorMessage)))
+                    {
+                        <div id="errorMessage" class="alert alert-danger" role="alert">
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                            @ViewBag.ErrorMessage
+                        </div>
+                    }
+                }
+                <form class="login" asp-action="Login" asp-controller="Account" asp-route-returnurl="@Context.Request.Path" method="post">
+                    <div class="logo-container">
+                        <img src="Asset/images/Logo.png" />
+                    </div>
+                    <div class="login-field">
+                        <i class="fa fa-user-plus"></i>
+                        @Html.TextBoxFor(x => x.ClientName, new { @class = "login-input", placeholder = "Client Name" })
+                        <span asp-validation-for="ClientName" class="text-danger"></span>
+                    </div>
+                    <div class="login-field">
+                        <i class="fa fa-user"></i>
+                        @Html.TextBoxFor(x => x.Username, new { @class = "login-input", placeholder = "User Name" })
+                        <span asp-validation-for="Username" class="text-danger"></span>
+                    </div>
+                    <div class="login-field">
+                        <i class="fa fa-key"></i>
+                        @Html.TextBoxFor(x => x.Password, new { @class = "login-input", placeholder = "Password", type = "password" })
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <button type="submit" class="button login-submit">Log In Now<i class="button-icon fa fa-chevron-right"></i></button>
+                </form>
+            </div>
+            <div class="screen-background">
+                <span class="screen-background-shape screen-background-shape3"></span>
+                <span class="screen-background-shape screen-background-shape2"></span>
+                <span class="screen-background-shape screen-background-shape1"></span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
