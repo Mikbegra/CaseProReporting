@@ -26,3 +26,18 @@ E:\GIT\LandingCashPro\Code\LandingCashPro\LandingRepo\obj\Debug\net8.0\refint\La
 E:\GIT\LandingCashPro\Code\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.pdb
 E:\GIT\LandingCashPro\Code\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.genruntimeconfig.cache
 E:\GIT\LandingCashPro\Code\LandingCashPro\LandingRepo\obj\Debug\net8.0\ref\LandingRepoModel.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingRepo\bin\Debug\net8.0\LandingRepoModel.deps.json
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingRepo\bin\Debug\net8.0\LandingRepoModel.runtimeconfig.json
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingRepo\bin\Debug\net8.0\LandingRepoModel.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingRepo\bin\Debug\net8.0\LandingRepoModel.pdb
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.csproj.AssemblyReference.cache
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.AssemblyInfoInputs.cache
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.AssemblyInfo.cs
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.csproj.CoreCompileInputs.cache
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.sourcelink.json
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\refint\LandingRepoModel.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.pdb
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.genruntimeconfig.cache
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\ref\LandingRepoModel.dll

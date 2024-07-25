@@ -10,7 +10,6 @@ namespace LandingRepoModel.RequestModel
         public string Dept { get; set; }
         public string Nominal { get; set; }
         public string Description { get; set; }
-        public string EstimateTotal { get; set; }
         public ICollection<ActualsDetail> ActualDetails { get; set; }
     }
 }

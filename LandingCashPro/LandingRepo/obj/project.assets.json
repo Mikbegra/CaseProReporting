@@ -10102,23 +10102,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sanja\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Izonnet\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GIT\\LandingCashPro\\Code\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj",
+      "projectUniqueName": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj",
       "projectName": "LandingRepoModel",
-      "projectPath": "E:\\GIT\\LandingCashPro\\Code\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj",
-      "packagesPath": "C:\\Users\\sanja\\.nuget\\packages\\",
-      "outputPath": "E:\\GIT\\LandingCashPro\\Code\\LandingCashPro\\LandingRepo\\obj\\",
+      "projectPath": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj",
+      "packagesPath": "C:\\Users\\Izonnet\\.nuget\\packages\\",
+      "outputPath": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingRepo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\sanja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Izonnet\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10126,7 +10122,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10139,11 +10134,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {

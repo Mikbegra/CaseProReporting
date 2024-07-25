@@ -54,6 +54,18 @@ namespace LandingCash.Models
         public decimal? October { get; set; }
         public decimal? November { get; set; }
         public decimal? December { get; set; }
+        public string? JanuaryEst { get; set; }
+        public string? FebruaryEst { get; set; }
+        public string? MarchEst { get; set; }
+        public string? AprilEst { get; set; }
+        public string? MayEst { get; set; }
+        public string? JuneEst { get; set; }
+        public string? JulyEst { get; set; }
+        public string? AugustEst { get; set; }
+        public string? SeptemberEst { get; set; }
+        public string? OctoberEst { get; set; }
+        public string? NovemberEst { get; set; }
+        public string? DecemberEst { get; set; }
         public decimal TotalActuals { get; set; }
     }
 }

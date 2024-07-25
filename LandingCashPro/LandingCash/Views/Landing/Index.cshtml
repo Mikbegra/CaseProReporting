@@ -21,7 +21,7 @@
 <section class="content">
     <div class="box">
         <div class="box-body">
-            <form asp-action="Index" asp-controller="Landing" method="post" id="main-form">
+            <form asp-action="Index" asp-controller="Landing" method="post" id="form">
                 <input type="hidden" id="IsSave" name="IsSave" value="" />
                 <div class="row">
                     <div class="col-md-3">
@@ -54,7 +54,7 @@
                                 <th data-sortable="true" data-field="Dept">Dept</th>
                                 <th data-sortable="true" data-field="Nominal">Nominal</th>
                                 <th data-sortable="true" data-field="Description">Description</th>
-                                <th data-sortable="true" data-field="Select Month Eastimate">Select Month Eastimate</th>
+                                <th data-sortable="true" data-field="EstimateTotal">Selected Month Estimate</th>
                                 <th data-sortable="true" data-field="Actuals" class="actli">Actuals</th>
                             </tr>
                         </thead>
@@ -85,9 +85,9 @@
                         </tbody>
                     </table>
                 </div>
-                <button type="submit" onclick="document.getElementById('IsSave').value = '1';" class="btn btn-cmn btn-actvt" style="margin-top: 10px;">Submit</button>
+                <button type="button" onclick="confirmSave();" class="btn btn-cmn btn-actvt" style="margin-top: 10px;">Submit</button>
 
-                <ul>
+                <ul id="msgli">
                     @if (Convert.ToBoolean(TempData["IsSuccess"]) == true)
                     {
                         <li><span class="text-success">Saved successfully.</span></li>
@@ -103,4 +103,22 @@
             </form>
         </div>
     </div>
+
+    <script>
+        function confirmSave() {
+            document.getElementById('msgli').innerHTML = '';
+            Swal.fire({
+                title: "Do you want to save the changes?",
+                showDenyButton: true,
+                // showCancelButton: true,
+                confirmButtonText: "Save",
+                denyButtonText: `Don't save`
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    document.getElementById('IsSave').value = '1';
+                    document.getElementById('form').submit();
+                }
+            });
+        }
+    </script>
 </section>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LandingRepo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fba4f2dee88b073277d504a0ab65d2b43a265648")]
 [assembly: System.Reflection.AssemblyProductAttribute("LandingRepo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LandingRepo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

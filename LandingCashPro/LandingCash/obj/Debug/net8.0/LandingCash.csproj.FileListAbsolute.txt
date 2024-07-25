@@ -1,537 +1,280 @@
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.csproj.AssemblyReference.cache
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.GeneratedMSBuildEditorConfig.editorconfig
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.AssemblyInfoInputs.cache
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.AssemblyInfo.cs
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.csproj.CoreCompileInputs.cache
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.MvcApplicationPartsAssemblyInfo.cache
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.RazorAssemblyInfo.cache
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.RazorAssemblyInfo.cs
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\appsettings.Development.json
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\appsettings.json
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.staticwebassets.runtime.json
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.exe
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.deps.json
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.runtimeconfig.json
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.pdb
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Azure.Core.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Azure.Identity.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Humanizer.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.Mvc.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.Razor.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.Helpers.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.WebPages.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Build.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Build.Framework.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Mono.TextTemplating.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Newtonsoft.Json.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Common.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Configuration.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Frameworks.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.LibraryModel.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Packaging.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.ProjectModel.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Protocol.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Versioning.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.CodeDom.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Composition.Convention.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Composition.Hosting.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Composition.Runtime.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Composition.TypedParts.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Drawing.Common.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Memory.Data.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Runtime.Caching.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Security.Permissions.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Windows.Extensions.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\af\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ar\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\az\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\bg\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\da\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\el\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\fa\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\he\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\hr\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\hu\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\hy\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\id\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\is\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ku\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\lv\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\mt\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\nb\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\nl\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\pt\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ro\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\sk\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\sl\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\sr\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\sv\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\uk\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\vi\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingRepo.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingRepoModel.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingRepo.pdb
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingRepoModel.pdb
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets.build.json
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets.development.json
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets\msbuild.LandingCash.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets\msbuild.build.LandingCash.props
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LandingCash.props
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LandingCash.props
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\scopedcss\bundle\LandingCash.styles.css
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\scopedcss\projectbundle\LandingCash.bundle.scp.css
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingC.D79FDB48.Up2Date
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.dll
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\refint\LandingCash.dll
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.pdb
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.genruntimeconfig.cache
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\ref\LandingCash.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\GridMvc.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
-D:\Kalpesh\LandingCashPro\LandingCash\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
-D:\Kalpesh\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.MvcApplicationPartsAssemblyInfo.cs
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\appsettings.Development.json
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\appsettings.json
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.staticwebassets.runtime.json
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.exe
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.deps.json
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.runtimeconfig.json
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.pdb
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Azure.Core.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Azure.Identity.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\GridMvc.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Humanizer.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.Mvc.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.Razor.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.Helpers.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.WebPages.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Build.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Build.Framework.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Mono.TextTemplating.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Newtonsoft.Json.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Common.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Configuration.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Frameworks.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.LibraryModel.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Packaging.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.ProjectModel.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Protocol.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Versioning.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.CodeDom.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Composition.Convention.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Composition.Hosting.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Composition.Runtime.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Composition.TypedParts.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Drawing.Common.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Memory.Data.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Runtime.Caching.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Security.Permissions.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Windows.Extensions.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\af\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ar\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\az\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\bg\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\da\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\el\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\fa\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\he\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\hr\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\hu\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\hy\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\id\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\is\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ku\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\lv\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\mt\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\nb\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\nl\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\pt\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ro\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\sk\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\sl\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\sr\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\sv\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\uk\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\vi\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingRepo.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingRepoModel.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingRepo.pdb
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingRepoModel.pdb
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.csproj.AssemblyReference.cache
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.GeneratedMSBuildEditorConfig.editorconfig
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.AssemblyInfoInputs.cache
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.AssemblyInfo.cs
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.csproj.CoreCompileInputs.cache
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.MvcApplicationPartsAssemblyInfo.cs
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.MvcApplicationPartsAssemblyInfo.cache
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.RazorAssemblyInfo.cache
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.RazorAssemblyInfo.cs
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets.build.json
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets.development.json
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets\msbuild.LandingCash.Microsoft.AspNetCore.StaticWebAssets.props
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets\msbuild.build.LandingCash.props
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LandingCash.props
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LandingCash.props
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets.pack.json
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\scopedcss\bundle\LandingCash.styles.css
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\scopedcss\projectbundle\LandingCash.bundle.scp.css
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingC.D79FDB48.Up2Date
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\refint\LandingCash.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.pdb
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.genruntimeconfig.cache
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\obj\Debug\net8.0\ref\LandingCash.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
-E:\GIT\LandingCashPro\Code\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\appsettings.Development.json
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\appsettings.json
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.staticwebassets.runtime.json
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.exe
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.deps.json
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.runtimeconfig.json
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingCash.pdb
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Azure.Core.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Azure.Identity.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\GridMvc.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Humanizer.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.Mvc.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.Razor.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.Helpers.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Web.WebPages.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Common.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.CodeDom.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingRepo.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingRepoModel.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingRepo.pdb
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\LandingRepoModel.pdb
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.csproj.AssemblyReference.cache
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.AssemblyInfoInputs.cache
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.AssemblyInfo.cs
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.csproj.CoreCompileInputs.cache
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.MvcApplicationPartsAssemblyInfo.cache
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.RazorAssemblyInfo.cache
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.RazorAssemblyInfo.cs
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.sourcelink.json
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets.build.json
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets.development.json
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets\msbuild.LandingCash.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets\msbuild.build.LandingCash.props
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LandingCash.props
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LandingCash.props
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\scopedcss\bundle\LandingCash.styles.css
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\scopedcss\projectbundle\LandingCash.bundle.scp.css
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.csproj.CopyComplete
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\refint\LandingCash.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.pdb
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\LandingCash.genruntimeconfig.cache
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\obj\Debug\net8.0\ref\LandingCash.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingCash\bin\Debug\net8.0\Microsoft.JSInterop.dll
