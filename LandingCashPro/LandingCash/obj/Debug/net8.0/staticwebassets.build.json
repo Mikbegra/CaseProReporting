@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aj7b5jdaaoHzdDLrxDmgZs+9/HS5assKC0bQKdVrjXY=",
+  "Hash": "3L1YSANq9k0UED3nZLipyjlru9VBrBxSmS+zROOGSNk=",
   "Source": "LandingCash",
   "BasePath": "_content/LandingCash",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "LandingCash\\wwwroot",
       "Source": "LandingCash",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Izonnet\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.7\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "Identity": "C:\\Users\\Izonnet\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.8\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Izonnet\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.7\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Izonnet\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.8\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Izonnet\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.7\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Izonnet\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.8\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Izonnet\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.7\\staticwebassets\\QuickGrid.razor.js",
+      "Identity": "C:\\Users\\Izonnet\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.8\\staticwebassets\\QuickGrid.razor.js",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Izonnet\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.7\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Izonnet\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.8\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "QuickGrid.razor.js",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Izonnet\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.7\\staticwebassets\\QuickGrid.razor.js"
+      "OriginalItemSpec": "C:\\Users\\Izonnet\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.8\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LandingCash.styles.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LandingCash.styles.css",
       "SourceId": "LandingCash",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "LandingCash.styles.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LandingCash.styles.css"
+      "OriginalItemSpec": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LandingCash.styles.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LandingCash.bundle.scp.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LandingCash.bundle.scp.css",
       "SourceId": "LandingCash",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "LandingCash.bundle.scp.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LandingCash.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LandingCash.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\css\\bootstrap.min.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\css\\bootstrap.min.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\css\\bootstrap-table.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\css\\bootstrap-table.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/css/bootstrap-table.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\css\\bootstrap-table.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\css\\dashboard.min.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\css\\dashboard.min.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/css/dashboard.min.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\css\\dashboard.min.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\css\\font-awesome.min.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\css\\font-awesome.min.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\css\\login.min.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\css\\login.min.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/css/login.min.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\css\\login.min.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\css\\skins.min.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\css\\skins.min.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/css/skins.min.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\css\\skins.min.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\FontAwesome.otf",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\FontAwesome.otf",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\fontawesome-webfont.eot",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\fontawesome-webfont.eot",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\fontawesome-webfont.woff",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\fontawesome-webfont.woff",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\glyphicons-halflings-regular.eot",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\glyphicons-halflings-regular.eot",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/fonts/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\glyphicons-halflings-regular.ttf",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\glyphicons-halflings-regular.ttf",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/fonts/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\glyphicons-halflings-regular.woff2",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\fonts\\glyphicons-halflings-regular.woff2",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/fonts/glyphicons-halflings-regular.woff2",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\images\\favicon.ico",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\images\\favicon.ico",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/images/favicon.ico",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\images\\favicon.ico"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\images\\login-left-image.png",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\images\\login-left-image.png",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/images/login-left-image.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\images\\login-left-image.png"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\images\\Logo.png",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\images\\Logo.png",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/images/Logo.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\images\\Logo.png"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\images\\Logo.svg",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\images\\Logo.svg",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/images/Logo.svg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\images\\Logo.svg"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\images\\MikeB.png",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\images\\MikeB.png",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/images/MikeB.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\images\\MikeB.png"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\images\\summary_tab.png",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\images\\summary_tab.png",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/images/summary_tab.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\images\\summary_tab.png"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\bootstrap.min.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\bootstrap.min.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\bootstrap-table.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\bootstrap-table.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/js/bootstrap-table.js",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\js\\bootstrap-table.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\Chart.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\Chart.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/js/Chart.js",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\js\\Chart.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\custom.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\custom.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/js/custom.js",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\js\\custom.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\dashboard.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\dashboard.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/js/dashboard.js",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\js\\dashboard.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\fastclick.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\fastclick.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/js/fastclick.js",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\js\\fastclick.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\html5shiv-3.7.2-html5shiv.min.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\html5shiv-3.7.2-html5shiv.min.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/js/html5shiv-3.7.2-html5shiv.min.js",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\js\\html5shiv-3.7.2-html5shiv.min.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\jquery.slimscroll.min.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\jquery.slimscroll.min.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/js/jquery.slimscroll.min.js",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\js\\jquery.slimscroll.min.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\jquery-3.7.1.min.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\jquery-3.7.1.min.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/js/jquery-3.7.1.min.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\js\\jquery-3.7.1.min.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\main.min.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\main.min.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/js/main.min.js",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\js\\main.min.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\respond-1.4.2-respond.min.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\respond-1.4.2-respond.min.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/js/respond-1.4.2-respond.min.js",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\js\\respond-1.4.2-respond.min.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\theme.min.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\Asset\\js\\theme.min.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "Asset/js/theme.min.js",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\Asset\\js\\theme.min.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\css\\site.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\favicon.ico",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\js\\site.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "LandingCash",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
+      "ContentRoot": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingCash\\wwwroot\\",
       "BasePath": "_content/LandingCash",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

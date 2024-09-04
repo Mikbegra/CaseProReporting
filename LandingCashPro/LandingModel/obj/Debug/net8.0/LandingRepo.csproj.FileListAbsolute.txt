@@ -44,3 +44,19 @@ D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingModel\obj\Debug\ne
 D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingModel\obj\Debug\net8.0\refint\LandingRepo.dll
 D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingModel\obj\Debug\net8.0\LandingRepo.pdb
 D:\Jinal\Git\1806 Mike\CaseProReporting\LandingCashPro\LandingModel\obj\Debug\net8.0\ref\LandingRepo.dll
+D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingModel\bin\Debug\net8.0\LandingRepo.deps.json
+D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingModel\bin\Debug\net8.0\LandingRepo.dll
+D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingModel\bin\Debug\net8.0\LandingRepo.pdb
+D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingModel\bin\Debug\net8.0\LandingRepoModel.dll
+D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingModel\bin\Debug\net8.0\LandingRepoModel.pdb
+D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingModel\obj\Debug\net8.0\LandingRepo.csproj.AssemblyReference.cache
+D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingModel\obj\Debug\net8.0\LandingRepo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingModel\obj\Debug\net8.0\LandingRepo.AssemblyInfoInputs.cache
+D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingModel\obj\Debug\net8.0\LandingRepo.AssemblyInfo.cs
+D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingModel\obj\Debug\net8.0\LandingRepo.csproj.CoreCompileInputs.cache
+D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingModel\obj\Debug\net8.0\LandingRepo.sourcelink.json
+D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingModel\obj\Debug\net8.0\LandingR.A42F08FD.Up2Date
+D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingModel\obj\Debug\net8.0\LandingRepo.dll
+D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingModel\obj\Debug\net8.0\refint\LandingRepo.dll
+D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingModel\obj\Debug\net8.0\LandingRepo.pdb
+D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingModel\obj\Debug\net8.0\ref\LandingRepo.dll

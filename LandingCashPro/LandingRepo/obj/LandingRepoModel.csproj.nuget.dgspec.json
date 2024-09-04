@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj": {}
+    "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj": {}
   },
   "projects": {
-    "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj": {
+    "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj",
+        "projectUniqueName": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj",
         "projectName": "LandingRepoModel",
-        "projectPath": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj",
+        "projectPath": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj",
         "packagesPath": "C:\\Users\\Izonnet\\.nuget\\packages\\",
-        "outputPath": "D:\\Jinal\\Git\\1806 Mike\\CaseProReporting\\LandingCashPro\\LandingRepo\\obj\\",
+        "outputPath": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingRepo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Izonnet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -46,7 +52,7 @@
             },
             "Microsoft.AspNetCore.Http.Features": {
               "target": "Package",
-              "version": "[5.0.17, )"
+              "version": "[6.0.0-preview.4.21253.5, )"
             },
             "Microsoft.AspNetCore.Mvc": {
               "target": "Package",
@@ -54,23 +60,23 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[9.0.0-preview.7.24405.3, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[9.0.0-preview.7.24405.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[9.0.0-preview.7.24405.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[9.0.0-preview.7.24405.3, )"
             },
             "System.Security.Claims": {
               "target": "Package",
@@ -97,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
