@@ -1,0 +1,88 @@
+﻿@using System.Globalization
+@model UploadListModel
+@{
+    ViewData["Title"] = "Actuals";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var months = DateTimeFormatInfo.CurrentInfo.MonthNames;
+    var monthList = new List<SelectListItem>();
+    var yearList = new List<SelectListItem>();
+
+    for (int i = 0; i < months.Length - 1; i++)
+        monthList.Add(new SelectListItem { Value = (i + 1).ToString(), Text = months[i] });
+
+    for (int i = 2023; i <= DateTime.Now.Year; i++)
+        yearList.Add(new SelectListItem { Value = (i).ToString(), Text = i.ToString() });
+}
+
+<section class="content-header">
+    <ol class="breadcrumb">
+        <li><a href="Dashboard.html"><i class="fa fa-home"></i> Home</a></li>
+        <li class="active">Actuals</li>
+    </ol>
+</section>
+
+<section class="content">
+    <div class="box">
+        <div class="box-body">
+            <form asp-action="UploadData" asp-controller="Landing" method="post" id="form" enctype="multipart/form-data">
+                <input type="hidden" id="IsSave" name="IsSave" value="" />
+                <div class="row">
+                    <div class="col-md-3">
+                        <select id="MonthId" name="MonthId" onchange="document.getElementById('IsSave').value = '0'; this.form.submit();" class="form-control">
+                            @foreach (var item in monthList)
+                            {
+                                <option value="@item.Value" selected="@((item.Value == Model.MonthId.ToString()))">@item.Text</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <select id="YearId" name="YearId" onchange="document.getElementById('IsSave').value = '0'; this.form.submit();" class="form-control">
+                            @foreach (var item in yearList)
+                            {
+                                <option value="@item.Value" selected="@((item.Value == Model.YearId.ToString()))">@item.Text</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+
+                <div class="table-container clearfix" style="margin-top:40px;">
+                    <input asp-for="uploadfile" />
+                </div>
+                <button type="button" onclick="confirmSave();" class="btn btn-cmn btn-actvt" style="margin-top: 10px;">Submit</button>
+
+                <ul id="msgli">
+                    @if (Convert.ToBoolean(TempData["IsSuccess"]) == true)
+                    {
+                        <li><span class="text-success">Saved successfully.</span></li>
+                    }
+                    else if (Convert.ToBoolean(TempData["IsError"]) == true)
+                    {
+                        @foreach (var error in (List<string>)TempData["Error"])
+                        {
+                            <li><span class="text-danger">@error</span></li>
+                        }
+                    }
+                </ul>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        function confirmSave() {
+            document.getElementById('msgli').innerHTML = '';
+            Swal.fire({
+                title: "Do you want to save the changes?",
+                showDenyButton: true,
+                // showCancelButton: true,
+                confirmButtonText: "Save",
+                denyButtonText: `Don't save`
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    document.getElementById('IsSave').value = '1';
+                    document.getElementById('form').submit();
+                }
+            });
+        }
+    </script>
+</section>

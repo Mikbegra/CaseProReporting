@@ -1,4 +1,7 @@
 ﻿<!DOCTYPE html>
+@{
+    var roleid = User.Claims.FirstOrDefault(c => c.Type == "RoleId").Value;
+}
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -162,16 +165,40 @@
 
                 <ul class="sidebar-menu tree" data-widget="tree">
                     <li class="header">MAIN NAVIGATION</li>
-                    <li id="activitiesList">
-                        <a href="~/Landing/Report" class="nav-link">
-                            <i class="fa fa-th"></i> <span>View Reports</span>
-                        </a>
-                    </li>
-                    <li id="createActivity">
-                        <a href="~/Landing/Index" class="nav-link">
-                            <i class="fa fa-pencil-square-o"></i> <span>Add Actuals</span>
-                        </a>
-                    </li>
+                    @if (roleid == "2")
+                    {
+                        <li id="activitiesList">
+                            <a href="~/Landing/UploadData" class="nav-link">
+                                <i class="fa fa-upload"></i> <span>Upload Data</span>
+                            </a>
+                        </li>
+                    }
+                    @if (roleid == "2")
+                    {
+                        <li id="activitiesList">
+                            <a href="~/Landing/Report" class="nav-link">
+                                <i class="fa fa-th"></i> <span>View Reports</span>
+                            </a>
+                        </li>
+                    }
+                   
+                    @if (roleid == "4" || roleid == "2")
+                    {
+                        <li id="createActivity">
+                            <a href="~/Landing/Index" class="nav-link">
+                                <i class="fa fa-pencil-square-o"></i> <span>Add Actuals</span>
+                            </a>
+                        </li>
+                    }
+                    @if (roleid == "3" || roleid == "2")
+                    {
+                        <li id="createActivity">
+                            <a href="~/Landing/Estimated" class="nav-link">
+                                <i class="fa fa-pencil-square-o"></i> <span>Add Estimate</span>
+                            </a>
+                        </li>
+                    }
+                   
                     <li id="logout">
                         <a href="@Url.Action("LogOut", "Account")" class="nav-link">
                             <i class="fa fa-cog"></i> <span>Logout</span>

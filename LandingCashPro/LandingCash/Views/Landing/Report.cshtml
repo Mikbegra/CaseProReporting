@@ -1,7 +1,18 @@
-﻿@model LandingReportModel;
+﻿@using System.Globalization
+@model LandingReportModel;
 @{
     ViewData["Title"] = "Report";
     Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var months = DateTimeFormatInfo.CurrentInfo.MonthNames;
+    var monthList = new List<SelectListItem>();
+    var yearList = new List<SelectListItem>();
+
+    for (int i = 0; i < months.Length - 1; i++)
+        monthList.Add(new SelectListItem { Value = (i + 1).ToString(), Text = months[i] });
+
+    for (int i = 2023; i <= DateTime.Now.Year; i++)
+        yearList.Add(new SelectListItem { Value = (i).ToString(), Text = i.ToString() });
 }
 
 <section class="content-header">
@@ -24,6 +35,22 @@
                             }
                         </select>
                     </div>
+                    <div class="col-md-3">
+                        <select id="MonthId" name="MonthId" onchange="this.form.submit();" class="form-control">
+                            @foreach (var item in monthList)
+                            {
+                                <option value="@item.Value" selected="@((item.Value == Model.MonthId.ToString()))">@item.Text</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <select id="YearId" name="YearId" onchange="this.form.submit();" class="form-control">
+                            @foreach (var item in yearList)
+                            {
+                                <option value="@item.Value" selected="@((item.Value == Model.YearId.ToString()))">@item.Text</option>
+                            }
+                        </select>
+                    </div>
                 </div>
             </form>
 
@@ -39,6 +66,7 @@
                             <th data-sortable="true" data-field="Dept">Dept</th>
                             <th data-sortable="true" data-field="Nominal">Nominal</th>
                             <th data-sortable="true" data-field="Description">Description</th>
+                            
                             <th data-sortable="true" data-field="JanuaryEst">January (Est)</th>
                             <th data-sortable="true" data-field="January">January (Act)</th>
                             <th data-sortable="true" data-field="FebruaryEst">February (Est)</th>
@@ -61,9 +89,10 @@
                             <th data-sortable="true" data-field="October">October (Act)</th>
                             <th data-sortable="true" data-field="NovemberEst">November (Est)</th>
                             <th data-sortable="true" data-field="November">November (Act)</th>
-                            <th data-sortable="true" data-field="December">December (Est)</th>
+                            <th data-sortable="true" data-field="DecemberEst">December (Est)</th>
                             <th data-sortable="true" data-field="December">December (Act)</th>
-                            <th data-sortable="true" data-field="TotalActuals" class="actli">TotalActuals</th>
+                            <th data-sortable="true" data-field="TotalEstimates" class="actli">Total Estimates</th>
+                            <th data-sortable="true" data-field="TotalActuals" class="actli">Total Actuals</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -99,6 +128,7 @@
                                 <td class="@(item.November != null ? "bg-green":"")">@item.November</td>
                                 <td>@item.DecemberEst</td>
                                 <td class="@(item.December != null ? "bg-green":"")">@item.December</td>
+                                <td>@item.TotalEstimates</td>
                                 <td>@item.TotalActuals</td>
                             </tr>
                         }

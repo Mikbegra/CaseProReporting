@@ -8,6 +8,7 @@ namespace LandingRepoModel.Entities
         public int Id { get; set; }
         public int LandingId { get; set; }
         public int MonthId { get; set; }
+        public int YearId { get; set; }
         public decimal? Estimated { get; set; }
     }
 }

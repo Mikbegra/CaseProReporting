@@ -40,6 +40,7 @@ namespace Webcasepro.Controllers
                         var claims = new List<Claim>
                         {
                             new Claim(ClaimTypes.Name, user.Username),
+                            new Claim("RoleId", response.RoleId)
                             // Add more claims as needed
                         };
 
@@ -60,6 +61,11 @@ namespace Webcasepro.Controllers
                         RoleName = response.Role;
                         UserId = response.UserId;
                         ViewBag.UserRole = RoleName;
+                        if(response.RoleId == "3")
+                            return RedirectToAction("Estimated", "Landing");
+                        else if(response.RoleId == "4")
+                            return RedirectToAction("Index", "Landing");
+                        else
                         return RedirectToAction("Index", "Landing");
                     }
                     else

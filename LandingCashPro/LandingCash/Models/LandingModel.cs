@@ -12,10 +12,12 @@ namespace LandingCash.Models
         public string Nominal { get; set; }
         public string Description { get; set; }
         public string EstimateTotal { get; set; }
-
         public int ActualsId { get; set; }
+
+        public Nullable<int> EstimatedId { get; set; }
         [RegularExpression(@"^\d*\.?\d*$", ErrorMessage = "Please enter a valid decimal number.")]
         public Nullable<decimal> Actuals { get; set; }
+        public Nullable<decimal> ActualsLastMonth { get; set; }
     }
 
     public class LandingListModel
@@ -23,6 +25,7 @@ namespace LandingCash.Models
         public int IsSave { get; set; }
         public int ReportTypeId { get; set; }
         public int MonthId { get; set; }
+        public int YearId { get; set; }
         public List<SelectListItem>? ReportTypes { get; set; }
         public List<LandingModel> LandingModel { get; set; }
     }
@@ -30,6 +33,8 @@ namespace LandingCash.Models
     public class LandingReportModel
     {
         public int ReportTypeId { get; set; }
+        public int MonthId { get; set; }
+        public int YearId { get; set; }
         public List<SelectListItem>? ReportTypes { get; set; }
         public List<LandingReportListModel> List { get; set; }
     }
@@ -67,5 +72,15 @@ namespace LandingCash.Models
         public string? NovemberEst { get; set; }
         public string? DecemberEst { get; set; }
         public decimal TotalActuals { get; set; }
+        public decimal TotalEstimates { get; set; }
+    }
+
+    public class UploadListModel
+    {
+        public int IsSave { get; set; }
+        public int MonthId { get; set; }
+        public int YearId { get; set; }
+
+        public IFormFile uploadfile { get; set; }
     }
 }

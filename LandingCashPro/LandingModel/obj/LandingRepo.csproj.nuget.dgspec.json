@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingModel\\LandingRepo.csproj": {}
+    "F:\\Official\\GIT\\Mike\\CaseProReporting\\LandingCashPro\\LandingModel\\LandingRepo.csproj": {}
   },
   "projects": {
-    "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingModel\\LandingRepo.csproj": {
+    "F:\\Official\\GIT\\Mike\\CaseProReporting\\LandingCashPro\\LandingModel\\LandingRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingModel\\LandingRepo.csproj",
+        "projectUniqueName": "F:\\Official\\GIT\\Mike\\CaseProReporting\\LandingCashPro\\LandingModel\\LandingRepo.csproj",
         "projectName": "LandingRepo",
-        "projectPath": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingModel\\LandingRepo.csproj",
-        "packagesPath": "C:\\Users\\Izonnet\\.nuget\\packages\\",
-        "outputPath": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingModel\\obj\\",
+        "projectPath": "F:\\Official\\GIT\\Mike\\CaseProReporting\\LandingCashPro\\LandingModel\\LandingRepo.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "F:\\Official\\GIT\\Mike\\CaseProReporting\\LandingCashPro\\LandingModel\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Izonnet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -29,8 +34,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj": {
-                "projectPath": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj"
+              "F:\\Official\\GIT\\Mike\\CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj": {
+                "projectPath": "F:\\Official\\GIT\\Mike\\CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj"
               }
             }
           }
@@ -79,17 +84,21 @@
         }
       }
     },
-    "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj": {
+    "F:\\Official\\GIT\\Mike\\CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj",
+        "projectUniqueName": "F:\\Official\\GIT\\Mike\\CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj",
         "projectName": "LandingRepoModel",
-        "projectPath": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj",
-        "packagesPath": "C:\\Users\\Izonnet\\.nuget\\packages\\",
-        "outputPath": "D:\\Jinal\\Git\\Mike B CaseProReporting\\LandingCashPro\\LandingRepo\\obj\\",
+        "projectPath": "F:\\Official\\GIT\\Mike\\CaseProReporting\\LandingCashPro\\LandingRepo\\LandingRepoModel.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "F:\\Official\\GIT\\Mike\\CaseProReporting\\LandingCashPro\\LandingRepo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Izonnet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,6 +106,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },

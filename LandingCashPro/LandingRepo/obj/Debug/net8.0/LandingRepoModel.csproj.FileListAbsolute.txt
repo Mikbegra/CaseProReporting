@@ -56,3 +56,18 @@ D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0
 D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.pdb
 D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.genruntimeconfig.cache
 D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\ref\LandingRepoModel.dll
+F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingRepo\bin\Debug\net8.0\LandingRepoModel.deps.json
+F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingRepo\bin\Debug\net8.0\LandingRepoModel.runtimeconfig.json
+F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingRepo\bin\Debug\net8.0\LandingRepoModel.dll
+F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingRepo\bin\Debug\net8.0\LandingRepoModel.pdb
+F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.csproj.AssemblyReference.cache
+F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.AssemblyInfoInputs.cache
+F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.AssemblyInfo.cs
+F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.csproj.CoreCompileInputs.cache
+F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.sourcelink.json
+F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.dll
+F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\refint\LandingRepoModel.dll
+F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.pdb
+F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\LandingRepoModel.genruntimeconfig.cache
+F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingRepo\obj\Debug\net8.0\ref\LandingRepoModel.dll

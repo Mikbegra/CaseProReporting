@@ -11,6 +11,7 @@ namespace LandingRepoModel.Entities
         public int ReportTypeId { get; set; }
 
         public int MonthId { get; set; }
+        public int YearId { get; set; }
 
         public int LandingId { get; set; }
 

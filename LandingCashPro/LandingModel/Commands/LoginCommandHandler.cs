@@ -22,7 +22,7 @@ namespace Domaincasepro.Commands
                 if (res != null && res.Password == user.Password)
                 {
                     if (_loginRepo.UpdateLastLogin(res.Id))
-                        return LoginResponseFactory.Create(true, res.fk_RoleId == 1 ? "ReadOnly" : "Admin", res.Id, "Login successful");
+                        return LoginResponseFactory.Create(true, res.fk_RoleId == 1 ? "ReadOnly" : res.fk_RoleId == 2 ? "Admin" : res.fk_RoleId == 3 ? "Sales" : "Finance", res.Id, "Login successful", res.fk_RoleId.ToString());
                     else
                         return LoginResponseFactory.Create(false, "Something went wrong, Please try again!");
                 }

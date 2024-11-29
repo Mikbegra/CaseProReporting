@@ -17,51 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LandingCash
 build_property.RootNamespace = LandingCash
-build_property.ProjectDir = D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingCash\
+build_property.ProjectDir = F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingCash\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Jinal\Git\Mike B CaseProReporting\LandingCashPro\LandingCash
+build_property.MSBuildProjectDirectory = F:\Official\GIT\Mike\CaseProReporting\LandingCashPro\LandingCash
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Jinal/Git/Mike B CaseProReporting/LandingCashPro/LandingCash/Views/Account/Login.cshtml]
+[F:/Official/GIT/Mike/CaseProReporting/LandingCashPro/LandingCash/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Jinal/Git/Mike B CaseProReporting/LandingCashPro/LandingCash/Views/Home/Index.cshtml]
+[F:/Official/GIT/Mike/CaseProReporting/LandingCashPro/LandingCash/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Jinal/Git/Mike B CaseProReporting/LandingCashPro/LandingCash/Views/Home/Privacy.cshtml]
+[F:/Official/GIT/Mike/CaseProReporting/LandingCashPro/LandingCash/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Jinal/Git/Mike B CaseProReporting/LandingCashPro/LandingCash/Views/Landing/Index.cshtml]
+[F:/Official/GIT/Mike/CaseProReporting/LandingCashPro/LandingCash/Views/Landing/Estimated.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGluZ1xFc3RpbWF0ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Official/GIT/Mike/CaseProReporting/LandingCashPro/LandingCash/Views/Landing/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGluZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Jinal/Git/Mike B CaseProReporting/LandingCashPro/LandingCash/Views/Landing/Report.cshtml]
+[F:/Official/GIT/Mike/CaseProReporting/LandingCashPro/LandingCash/Views/Landing/Report.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGluZ1xSZXBvcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Jinal/Git/Mike B CaseProReporting/LandingCashPro/LandingCash/Views/Shared/Error.cshtml]
+[F:/Official/GIT/Mike/CaseProReporting/LandingCashPro/LandingCash/Views/Landing/UploadData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGluZ1xVcGxvYWREYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Official/GIT/Mike/CaseProReporting/LandingCashPro/LandingCash/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Jinal/Git/Mike B CaseProReporting/LandingCashPro/LandingCash/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/Official/GIT/Mike/CaseProReporting/LandingCashPro/LandingCash/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Jinal/Git/Mike B CaseProReporting/LandingCashPro/LandingCash/Views/_ViewImports.cshtml]
+[F:/Official/GIT/Mike/CaseProReporting/LandingCashPro/LandingCash/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Jinal/Git/Mike B CaseProReporting/LandingCashPro/LandingCash/Views/_ViewStart.cshtml]
+[F:/Official/GIT/Mike/CaseProReporting/LandingCashPro/LandingCash/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Jinal/Git/Mike B CaseProReporting/LandingCashPro/LandingCash/Views/Shared/_Layout.cshtml]
+[F:/Official/GIT/Mike/CaseProReporting/LandingCashPro/LandingCash/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2tap1j2is2

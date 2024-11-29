@@ -6,9 +6,13 @@
 
     var months = DateTimeFormatInfo.CurrentInfo.MonthNames;
     var monthList = new List<SelectListItem>();
+    var yearList = new List<SelectListItem>();
 
     for (int i = 0; i < months.Length - 1; i++)
         monthList.Add(new SelectListItem { Value = (i + 1).ToString(), Text = months[i] });
+
+    for (int i = 2023; i <= DateTime.Now.Year; i++)
+        yearList.Add(new SelectListItem { Value = (i).ToString(), Text = i.ToString() });
 }
 
 <section class="content-header">
@@ -37,6 +41,14 @@
                             @foreach (var item in monthList)
                             {
                                 <option value="@item.Value" selected="@((item.Value == Model.MonthId.ToString()))">@item.Text</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <select id="YearId" name="YearId" onchange="document.getElementById('IsSave').value = '0'; this.form.submit();" class="form-control">
+                            @foreach (var item in yearList)
+                            {
+                                <option value="@item.Value" selected="@((item.Value == Model.YearId.ToString()))">@item.Text</option>
                             }
                         </select>
                     </div>
@@ -77,7 +89,6 @@
                                         <input type="hidden" name="LandingModel[@Model.LandingModel.IndexOf(item)].Nominal" value="@item.Nominal" />
                                         <input type="hidden" name="LandingModel[@Model.LandingModel.IndexOf(item)].Description" value="@item.Description" />
                                         <input type="hidden" name="LandingModel[@Model.LandingModel.IndexOf(item)].EstimateTotal" value="@item.EstimateTotal" />
-
                                         <input type="text" name="LandingModel[@Model.LandingModel.IndexOf(item)].Actuals" class="form-control decimalvalidation" value="@item.Actuals?.ToString()" />
                                     </td>
                                 </tr>
